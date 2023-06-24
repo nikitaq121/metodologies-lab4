@@ -17,3 +17,6 @@ Task Manager є простою консольною програмою для у
 ## Автор
 
 Косенко Микита ІМ-12 - ((https://github.com/nikitaq121))
+
+## дизайн документ
+https://docs.google.com/document/d/1I9rdYU7osbHZkRilcqLp4amIdIO9sFbTqIJ1yoso51A
